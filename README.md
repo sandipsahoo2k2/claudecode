@@ -2,7 +2,7 @@
 
 Claw Code is an open source Claude Code with Rust implementation. It is a local coding-agent CLI that provides an interactive agent shell, one-shot prompts, workspace-aware tools, plugin support, and resumeable sessions.
 
-![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total%20views&color=ffa500&style=for-the-badge)
+![View Count](https://komarev.com/ghpvc/?username=sandipsahoo2k2&label=Total%20views&color=ffa500&style=for-the-badge)
 
 ## Start here
 
